@@ -1,0 +1,15 @@
+{
+    "version"   :   "1.0" ,
+    "name": "Memory Blocks",
+    "description": "Remember the arrangement, and then try to re arrange them form memory!",
+    "launch_path": "/index.html",
+    "icons": {
+	    "64": "/img/icon-64.png",
+	    "128": "/img/icon-128.png"
+	  },
+    "developer": {
+        "name": "Rabimba Karanjai",
+        "url": "http://rabimba.com"
+    },
+    "default_locale": "en-US"
+}
